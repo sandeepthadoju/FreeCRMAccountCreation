@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Accounts</name>
+   <tag></tag>
+   <elementGuidId>32cebda2-3386-424e-a6e9-f0dd4cdc0fed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Accounts')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.top-nav-link.nav-link-nongrouped.dropdown-toggle.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>top-nav-link nav-link-nongrouped dropdown-toggle ng-star-inserted</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/accounts</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Accounts
+</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;app-shell&quot;]/scrm-navbar-ui[1]/scrm-base-navbar[@class=&quot;ng-tns-c298-1 ng-star-inserted&quot;]/div[@class=&quot;top-panel fixed-top ng-tns-c298-1 ng-star-inserted&quot;]/nav[@class=&quot;navbar navbar-expand-md navbar-1 ng-tns-c298-1 ng-star-inserted&quot;]/div[@class=&quot;navbar-collapse collapse collapsenav ng-tns-c298-1&quot;]/ul[@class=&quot;navbar-nav ng-tns-c298-1 ng-star-inserted&quot;]/li[@class=&quot;top-nav nav-item dropdown non-grouped ng-tns-c298-1 ng-star-inserted&quot;]/scrm-menu-item[@class=&quot;ng-tns-c298-1&quot;]/scrm-base-menu-item[@class=&quot;ng-star-inserted&quot;]/span[1]/scrm-menu-item-link[1]/scrm-base-menu-item-link[@class=&quot;ng-star-inserted&quot;]/a[@class=&quot;top-nav-link nav-link-nongrouped dropdown-toggle ng-star-inserted&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Accounts')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Accounts']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#/accounts')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//scrm-base-menu-item-link/a</value>
+   </webElementXpaths>
+</WebElementEntity>
