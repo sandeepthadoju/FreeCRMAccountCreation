@@ -6,9 +6,9 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>50b02d67-1800-4ce5-9175-b4afe39935bc</dataFileGUID>
-   <dataSourceUrl>../../.jenkins/DataFile/Datafile.xlsx</dataSourceUrl>
+   <dataSourceUrl>C:\Users\sree\.jenkins\DataFile\Datafile.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
-   <isInternalPath>true</isInternalPath>
+   <isInternalPath>false</isInternalPath>
    <properties>
       <entry>
          <key>readAsString</key>
