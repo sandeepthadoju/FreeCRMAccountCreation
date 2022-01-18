@@ -59,7 +59,9 @@ WebUI.setText(findTestObject('FreeCRM/Page_SuiteCRM/Page_SuiteCRM/input_FAX_form
 WebUI.setText(findTestObject('FreeCRM/Page_SuiteCRM/Page_SuiteCRM/input_OFFICE PHONE_form-control form-control-sm ng-untouched ng-pristine ng-valid'), 
     officephone)
 
-WebUI.scrollToElement(findTestObject('FreeCRM/Page_SuiteCRM/button_Save'), 1)
+WebUI.scrollToElement(findTestObject('FreeCRM/Page_SuiteCRM/button_Save'), 3)
+
+WebUI.executeJavaScript('window.scrollTo(document.body.scrollHeight, 0)', [])
 
 WebUI.click(findTestObject('FreeCRM/Page_SuiteCRM/button_Save'))
 
